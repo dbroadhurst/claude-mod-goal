@@ -1,0 +1,10 @@
+{
+  "name": "goal",
+  "version": "0.1.0",
+  "description": "A pane summarising the overall goal Claude is working toward, with its steps and progress",
+  "author": { "name": "David Broadhurst", "url": "https://github.com/dbroadhurst" },
+  "homepage": "https://github.com/dbroadhurst/claude-mod-goal",
+  "repository": "https://github.com/dbroadhurst/claude-mod-goal",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
